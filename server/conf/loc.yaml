@@ -1,0 +1,6 @@
+debug: true
+bind_addr: 127.0.0.1:8888
+log:
+  event_log: log/server.event.log
+  access_log: log/server.access.log
+  panic_log: log/server.panic.log
